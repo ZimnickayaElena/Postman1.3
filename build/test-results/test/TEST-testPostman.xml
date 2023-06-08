@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testPostman" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-07T15:51:29" hostname="LAPTOP-U9AMCRRJ" time="9.833">
+<testsuite name="testPostman" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-08T17:04:03" hostname="LAPTOP-U9AMCRRJ" time="12.426">
   <properties/>
-  <testcase name="shouldReturnPostman()" classname="testPostman" time="9.833"/>
+  <testcase name="shouldReturnPostman()" classname="testPostman" time="12.426"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
